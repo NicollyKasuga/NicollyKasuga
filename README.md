@@ -1,7 +1,7 @@
 ### Olá, Nicolly Kasuga aqui! Bem vindo(a) ao meu Github 👋
 
-- 🌱 Estudando no momento: Django, Node.js, Express, Docker, AWS.
-- Stacks: JavaScript, Typescript, React | Python, Flask, MongoDB, PostgreSQL, SQL
+- 🌱 Estudando no momento: Angular, AWS.
+- Stacks: JavaScript, Typescript, React | Node.js, Express, Python, Flask, Django, MongoDB, PostgreSQL, SQL, Docker
 - 😄 Pronomes: Ela/Dela
 
 
